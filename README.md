@@ -1,2 +1,2 @@
 # dtlin
-For development Dapurtantelin.com
+For development Dapurtantelin.com dengan themes tasty
