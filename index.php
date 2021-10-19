@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Dapur Tante Lin &mdash; FnD</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Website Template by freehtml5.co" />
+	<meta name="description" content="Dapur tante lin, jakarta, sambal roa, refrada, lilisya" />
 	<meta name="keywords" content="dapur tante lin, resto, foodcourt, cikini, jakarta, responsive" />
 	<meta name="author" content="halolilisya" />
 
@@ -80,7 +80,7 @@
 					<div class="col-xs-12 text-center menu-1 menu-wrap">
 						<ul id="meMenu">
 							<li class="active"><a href="#fh5co-blog">Menu</a></li>
-							<li class=""><a href="#fh5co-slider">Hapiness</a></li>
+							<li class=""><a href="#fh5co-slider">Galeri</a></li>
 							<li class=""><a href="#fh5co-featured-testimony">Kitchen</a></li>
 							<li class=""><a href="#fh5co-about">Order</a></li>
 						</ul>
@@ -99,7 +99,7 @@
 					<div class="display-t js-fullheight">
 						<div class="display-tc js-fullheight animate-box" data-animate-effect="fadeIn">
 							<h1>The Sambal Roa <em>&amp;</em> International <em>with</em> Petai</h1>
-							<h2>Special menu for Today Cooking with heart by <a href="http://freehtml5.co/" target="_blank">Tante Lin</a></h2>
+							<h2>Special menu for Today Cooking with heart by <a href="https://dapurtantelin.com/" target="_blank">Tante Lin</a></h2>
 						</div>
 					</div>
 				</div>
@@ -224,51 +224,7 @@
 		</div>
 	</div>
 	
-	<footer id="fh5co-footer" role="contentinfo" class="fh5co-section">
-		<div class="container">
-			<div class="row row-pb-md">
-				<div class="col-md-5 fh5co-widget">
-					<h4>Dapur Tante Lin</h4>
-					<p>Restaurant and Home made Food and Beverages special recipe from Tante Lin, Indonesian dish in single plate.</p>
-				</div>
-				<div class="col-md-2 col-md-push-1 fh5co-widget">
-					<h4>Links</h4>
-					<ul class="fh5co-footer-links">
-						<li><a href="#">Menu</a></li>
-						<li><a href="#">Kitchen</a></li>
-						<li><a href="#">Gallery</a></li>
-						<li><a href="#">Order</a></li>
-					</ul>
-				</div>
-
-				<div class="col-md-5 col-md-push-1 fh5co-widget">
-					<h4>Contact Information</h4>
-					<ul class="fh5co-footer-links">
-						<li>Cikini, Jakarta <br> Indonesia</li>
-						<li><a href="tel://1234567920">+ 1235 2355 98</a></li>
-						<li><a href="mailto:info@yoursite.com">refrada@refrada.id</a></li>
-					</ul>
-				</div>
-
-			</div>
-
-			<div class="row copyright">
-				<div class="col-md-12 text-center">
-					<p>
-						<small class="block">&copy; <?php echo date("Y");?> Refrada. All Rights Reserved.</small> 
-					</p>
-					<p>
-						<ul class="fh5co-social-icons">
-							<li><a href="#"><i class="icon-instagram2"></i></a></li>
-							<li><a href="#"><i class="icon-twitter2"></i></a></li>
-							<li><a href="#"><i class="icon-facebook2"></i></a></li>
-						</ul>
-					</p>
-				</div>
-			</div>
-
-		</div>
-	</footer>
+	<?php include 'part/footer.php'; ?>
 	</div>
 
 	<div class="gototop js-top">
